@@ -35,7 +35,7 @@
 
 #### Tool: Hydra v9.6
 
-![Hydra Result](Brute-Force/screenshots/01_brute_force_hydra_result.png)
+![Hydra Result](screenshots/01_brute_force_hydra_result.png)
 
 **Figure 1: Hydra Brute Force Attack Result**
 
@@ -71,7 +71,7 @@ index=* sourcetype="access-too_small" brute
 | `stats count by src_ip` | นับจำนวน request แยกตาม IP |
 | `sort -count` | เรียงจากมากไปน้อย |
 
-![Splunk Brute Force](Brute-Force/screenshots/02_splunk_brute_force.png)
+![Splunk Brute Force](screenshots/02_splunk_brute_force.png)
 
 **Figure 2: Splunk Detection Result**
 
@@ -81,7 +81,7 @@ index=* sourcetype="access-too_small" brute
 
 ### 5. Dashboard
 
-![Dashboard](Brute-Force/screenshots/03_dashboard_brute_force.png)
+![Dashboard](screenshots/03_dashboard_brute_force.png)
 
 **Figure 3: DVWA Attack Monitor Dashboard**
 

@@ -107,8 +107,7 @@ index=* sourcetype=*
 > - `sourcetype=*` = ทุกประเภท Log
 
 ## Screenshot
-![Splunk 72 Events](screenshots/splunk-events.png)
-
+![Splunk 72 Events](screenshost/splunk-events.png)
 ---
 
 ## Next Step → Phase 2

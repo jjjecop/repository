@@ -71,7 +71,7 @@ Browser จึงตีความ `<script>` เป็น JavaScript แล้
 
 **ผลลัพธ์:** ขึ้น popup alert "XSS by Thawatchai" จาก 172.16.143.131
 
-![Popup Alert XSS by Thawatchai](screenshots/02_xss_alert_popup.png)
+![Popup Alert XSS by Thawatchai](/phase2-attacks/XSS/screenshot/02_xss_alert_popup.png)
 
 ---
 
@@ -93,7 +93,7 @@ index=* sourcetype=access-too_small
 
 > **หมายเหตุ:** `%3C` = `<`, `%3E` = `>`, `%27` = `'` คือ URL encode ของ HTML tag
 
-![Splunk Log XSS](screenshots/03_xss_splunk_log.png)
+![Splunk Log XSS](/phase2-attacks/XSS/screenshot/03_xss_splunk_log.png)
 
 ---
 

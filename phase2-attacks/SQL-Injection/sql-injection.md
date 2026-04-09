@@ -67,7 +67,7 @@ SELECT * FROM users WHERE id = '' OR '1'='1';
 | Pablo | Picasso |
 | Bob | Smith |
 
-![ผลลัพธ์ ' OR '1'='1](screenshots/01_vulnerabilitysql_injection.png)
+![ผลลัพธ์ ' OR '1'='1](screenshots/01.png)
 
 ---
 

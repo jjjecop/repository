@@ -67,7 +67,7 @@ SELECT * FROM users WHERE id = '' OR '1'='1';
 | Pablo | Picasso |
 | Bob | Smith |
 
-![ผลลัพธ์ ' OR '1'='1](screenshots/01_VulnerabilitySQL%20Injection.png)
+![ผลลัพธ์ ' OR '1'='1](screenshots/01_vulnerabilitysql_injection.png)
 
 ---
 
@@ -93,6 +93,7 @@ index=* sourcetype=access-too_small
 ![Splunk Log](screenshots/02Log_sql_Injection.png)
 
 ---
+
 
 ## ผลลัพธ์สรุป
 | การทดสอบ | Payload | ผลลัพธ์ |

@@ -49,7 +49,7 @@ XSS (Cross-Site Scripting) คือการที่ attacker แทรก Jav
 ### 1. เข้า DVWA → XSS (Reflected)
 เปิดหน้า XSS (Reflected) บน DVWA พบช่อง input **"What's your name?"**
 
-![หน้า DVWA XSS Reflected](screenshots/01_xss_reflected_page.png)
+![หน้า DVWA XSS Reflected](/phase2-attacks/XSS/screenshot/01_xss_reflected_page.png)
 
 ---
 
